@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_back">Welcome\nback</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_error">Please enter valid email address.</string>
+    <string name="login_message">Login with your registered email ID and password.</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password_error">Please enter password.</string>
+    <string name="sign_up_prefix">Don’t have an account?</string>
+    <string name="sign_up">Sign up</string>
+</resources>
